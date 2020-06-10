@@ -1,4 +1,4 @@
-# Şelale
+# Şelale - Waterfall
  - Murgul Şelalesi (Artvin/Murgul)
  - Ilıca Şelalesi (Ilıca/Pınarbaşı/Kastamonu)
  - Erfelek Şelalesi (Sinop/Merkez)
