@@ -1,2 +1,2 @@
 # Sunset - Günbatımı
- - Patara Kum Tepesi
+ - Patara Kum Tepesi (Antalya/Kaş)
